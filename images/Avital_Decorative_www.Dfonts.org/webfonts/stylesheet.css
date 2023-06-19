@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Diandra';
+    src: url('Diandra.woff2') format('woff2'),
+        url('Diandra.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avital rough';
+    src: url('Avitalrough.woff2') format('woff2'),
+        url('Avitalrough.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avital';
+    src: url('Avital.woff2') format('woff2'),
+        url('Avital.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
